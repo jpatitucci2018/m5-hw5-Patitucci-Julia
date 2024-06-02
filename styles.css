@@ -6,7 +6,7 @@
 
 body {
     background-color: antiquewhite;
-    background-image: url("https://unsplash.com/photos/a-blurry-photo-of-a-blurry-background-NkQD-RHhbvY")
+    background-image: url(https://github.com/jpatitucci2018/m5-hw5-Patitucci-Julia/raw/main/bernard-hermant-cB18uhhf43s-unsplash.jpg);
 }
 
 header {
@@ -40,4 +40,24 @@ nav a {
     font-weight: bold;
     text-transform: uppercase;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+main {
+    display: inline-block;
+    width: 70%;
+    background-color: lightgreen;
+    padding: 25px;
+}
+
+aside {
+    background-color: lightgreen;
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 25px;
 }

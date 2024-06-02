@@ -12,4 +12,32 @@ body {
 header {
     background-color: lightskyblue;
     padding: 40px;
+    /*
+    padding: 20px 30px; /* Top/bottom and Left/Right
+    padding: 20px 30px 40px; /* Top/bottom and Left/Right
+    padding: 20px 30px 40px 50px; /* Top/bottom and Left/Right
+    */
+    border-bottom: double 5px silver;
+}
+
+h1 {
+    display: inline-block;
+    width: 30%;
+}
+
+nav {
+    display: inline-block;
+    width: 60%;
+    text-align: right;
+}
+
+nav a {
+    background-color: gainsboro;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 3px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
 }

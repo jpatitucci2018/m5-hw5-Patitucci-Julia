@@ -76,3 +76,6 @@ aside {
     vertical-align: top;
     padding: 25px;
 }
+ul {
+    list-style: none;
+}

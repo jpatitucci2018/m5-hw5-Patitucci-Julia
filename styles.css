@@ -76,6 +76,11 @@ aside {
     vertical-align: top;
     padding: 25px;
 }
+
+h3 {
+    margin: 20px 0 10px;
+}
+
 ul {
     list-style: none;
 }

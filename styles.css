@@ -1,0 +1,15 @@
+{
+    margin: 0;
+    padding: 0;
+    border: 0; 
+}
+
+body {
+    background-color: antiquewhite;
+    background-image: url("https://picsum.photos/900/600")
+}
+
+header {
+    background-color: lightskyblue;
+    padding: 40px;
+}
